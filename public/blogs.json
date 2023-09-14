@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/48vLX1C/13472837-345-digital-marketing-social-media-post-template.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/K58qrtz/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "reading_time": 20,
+      "post_date": "September 5, 2023",
+      "hashtags": ["#Fantasy", "#Adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/18NK2yH/13197457-304-digital-marketing-facebook-template.jpg",
+      "title": "Secrets of the Lost City",
+      "author": "David Smith",
+      "author_img": "https://i.ibb.co/rpcLdkP/handsome-businessman-his-workplace.jpg",
+      "reading_time": 45,
+      "post_date": "August 18, 2023",
+      "hashtags": ["#Mystery", "#Exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/42GyqP7/13524730-362-furniture-facebook-banner-template.jpg",
+      "title": "Midnight Shadows",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/GRF5GW8/overweight-man-glasses-wearing-black-t-shirt-holding-notebook-writing-something-with-serious-face-bl.jpg",
+      "reading_time": 30,
+      "post_date": "July 29, 2023",
+      "hashtags": ["#Thriller", "#Suspense"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/18NK2yH/13197457-304-digital-marketing-facebook-template.jpg",
+      "title": "The Starship Chronicles",
+      "author": "John Anderson",
+      "author_img": "https://i.ibb.co/gWBxJhb/side-view-business-man-writing-agenda.jpg",
+      "reading_time": 60,
+      "post_date": "June 12, 2023",
+      "hashtags": ["#ScienceFiction", "#Adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/48vLX1C/13472837-345-digital-marketing-social-media-post-template.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Sarah Turner",
+      "author_img": "https://i.ibb.co/6ZP7FpK/high-angle-handsome-man-looking-phone.jpg",
+      "reading_time": 15,
+      "post_date": "May 3, 2023",
+      "hashtags": ["#Romance", "#Drama"]
+    }
+  ]
+  
